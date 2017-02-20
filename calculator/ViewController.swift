@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         let number = sender.currentTitle!
         print (number)
         
-        
+        // ХУЙ
     }
     
     
